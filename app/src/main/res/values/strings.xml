@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CooLe</string>
+    <string name="button_base_value">基础设置</string>
+    <string name="close_screen">闭屏设置</string>
+    <string name="open_screen">开屏设置</string>
+    <string name="time_quantum">时间段模式设置</string>
+    <string name="open_screen_summary">以下三个任意选择一个作为手机在亮屏时的音量模式</string>
+
+    <string name="mode_silent">静音</string>
+    <string name="mode_vibrate">震动</string>
+    <string name="mode_normal">铃声</string>
+
+    <string name="is_start_auto_change">自动调节音量</string>
+    <string name="start_auto_change_item">需要自动调节音量的类型</string>
+    
+    <string name="system_voice">系统音量</string>
+    <string name="ring_voice">铃声音量</string>
+    <string name="music_voice">媒体音量</string>
+    <string name="alarm_voice">提示音量</string>
+    <string name="call_voice">通话音量</string>
+
+    <string name="link">——</string>
+    <string name="btn_about">介绍使用</string>
+</resources>
